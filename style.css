@@ -1,0 +1,84 @@
+/* general styling */
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: aliceblue;
+    margin: 0;
+    padding: 150px;}
+    .resume-container{
+        display:flex;
+        background-color: aliceblue;
+        margin: 0 auto;
+        width: 80%;
+        border-radius: 10px;
+        box-shadow: 0 0 20px rgba(rgba(46, 82, 97, 0.428))
+    }
+    .left- section{
+        background-color: black;
+        color: white;
+        padding: 20px;
+        width: 35;
+        text-align: center;
+        border-right: 5px solid rgb(99, 188, 226);
+
+    }
+    .mypic{
+        width: 150px;
+        height: 150px;
+        margin-top:10%;
+        border-radius: 50%;
+        border: 5px solid rgb(99, 188, 226);
+        margin-bottom: 20px;
+    }
+    h1{
+     font-size: 24px;
+     margin: 10px 0;
+     text-align: center;
+     margin-bottom: 30px;
+     text-underline-position: auto;
+    }
+     h3{
+        font-size: 18px;
+        padding: 2%;
+        margin: 20px 0 10px;
+        color: black;
+        border-radius: 10px;
+        box-shadow: 0 0 15px rgb(99, 188, 226);
+        margin-top: 5%;
+        margin-top: 5%;
+     }
+   ul{
+    list-style-type: fill round;
+    padding: 10px;
+    margin: 10px 0;
+   }
+   ul li{
+    margin: 5px 0;
+   }
+.right-section{
+    padding: 20px;
+    width: 65%;}
+    button{
+        font-family: Arial, Helvetica, sans-serif;
+        border-radius: 10px;
+        box-shadow: 0 0 15px black;
+        cursor: pointer;
+        margin-top: 20px;
+        font-size: 20px;
+    }
+    button:hover{
+        background-color: blueviolet;
+    }
+    
+    
+
+    
+
+
+    
+    
+    
+    
+    
+    
+
+
